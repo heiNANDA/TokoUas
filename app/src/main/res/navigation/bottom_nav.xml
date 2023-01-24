@@ -56,4 +56,9 @@
         android:name="com.aplikasi.apptokosi01.PembelianFragment"
         android:label="fragment_pembelian"
         tools:layout="@layout/fragment_pembelian" />
+    <fragment
+        android:id="@+id/bayarsupplierFragment"
+        android:name="com.aplikasi.apptokosi01.BayarsupplierFragment"
+        android:label="fragment_bayar_supplier"
+        tools:layout="@layout/fragment_bayar_supplier" />
 </navigation>
